@@ -82,8 +82,8 @@ Facilitates Windows Remote Management (WinRM) commands execution within Harness/
 - **Repo**: [payments-validation](https://github.com/diegopereiraeng/payments-validation)
 
 ### 5. **Kubernetes Manifests Templates**
-- **Description**: Provides templates for Kubernetes manifests to help with GitLab CI/CD integration and deployment.
-- **Technologies**: Kubernetes, GitLab CI/CD.
+- **Description**: Provides templates for Kubernetes manifests to help with Harness CI/CD integration and deployment.
+- **Technologies**: Kubernetes, Harness CI/CD.
 - **Repo**: [k8s-manifests-templates](https://github.com/diegopereiraeng/k8s-manifests-templates)
 
 ### 6. **Harness React Native**
