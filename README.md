@@ -1,16 +1,14 @@
 # Plugins and Utilities Catalog Documentation
 
-#  ________   .__                                        
-#  \______ \  |__|  ____    ____    ____                 
-#   |    |  \ |  |_/ __ \  / ___\  /  _ \                
-#   |    `   \|  |\  ___/ / /_/  >(  <_> )               
-#  /_______  /|__| \___  >\___  /  \____/                
-#  ________\/          \//_____/     .__                 
-#  \______   \  ____ _______   ____  |__|_______ _____   
-#   |     ___/_/ __ \\_  __ \_/ __ \ |  |\_  __ \\__  \  
-#   |    |    \  ___/ |  | \/\  ___/ |  | |  | \/ / __ \_
-#   |____|     \___  >|__|    \___  >|__| |__|   (____  /
-#                  \/             \/                  \/ 
+ __ \ _)                  
+ |   | |  _ \  _` |  _ \  
+ |   | |  __/ (   | (   | 
+____/ _|\___|\__, |\___/  
+             |___/        
+  _ \              _)           
+ |   | _ \  __| _ \ |  __| _` | 
+ ___/  __/ |    __/ | |   (   | 
+_|   \___|_|  \___|_|_|  \__,_|
 
 Welcome to the official documentation repository for Diego Pereira's suite of plugins. This repository serves as a central hub for information, usage guides, and support for each plugin developed by Diego Pereira. Below you will find a list of plugins along with brief descriptions and links to their respective repositories for detailed information.
 
