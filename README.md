@@ -1,4 +1,4 @@
-# Plugins and Utilities Catalog Documentation
+# Plugins, Utilities and Demos Catalog Documentation
 
 ![Diego Pereira](diego-repo-banner.png "Diego Pereira")
 
