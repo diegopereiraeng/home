@@ -1,16 +1,6 @@
 # Plugins and Utilities Catalog Documentation
 
-
- __  _ ___ __  __            
-| _\| | __/ _]/__\           
-| v | | _| [/\ \/ |          
-|__/|_|___\__/\__/ ___  __   
-| _,\ __| _ \ __| | _ \/  \  
-| v_/ _|| v / _|| | v / /\ | 
-|_| |___|_|_\___|_|_|_\_||_| 
-
-
-Welcome to the official documentation repository for Diego Pereira's suite of plugins. This repository serves as a central hub for information, usage guides, and support for each plugin developed by Diego Pereira. Below you will find a list of plugins along with brief descriptions and links to their respective repositories for detailed information.
+## Welcome to the official documentation repository for Diego Pereira's suite of plugins. This repository serves as a central hub for information, usage guides, and support for each plugin developed by Diego Pereira. Below you will find a list of plugins along with brief descriptions and links to their respective repositories for detailed information.
 
 ## Plugin List
 
