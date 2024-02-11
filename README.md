@@ -2,9 +2,9 @@
 
 ![Diego Pereira](diego-repo-banner.png "Diego Pereira")
 
-Welcome to the official documentation repository for Diego Pereira's suite of plugins. 
+Welcome to the official documentation repository for Diego Pereira's suite of plugins, utilities and demos. 
 
-This repository serves as a central hub for information, usage guides, and support for each plugin developed by Diego Pereira. Below you will find a list of plugins along with brief descriptions and links to their respective repositories for detailed information.
+This repository serves as a central hub for information, usage guides, and support for each plugin, utility and demo developed by Diego Pereira. Below you will find a list of plugins along with brief descriptions and links to their respective repositories for detailed information.
 
 ## Plugin List
 
