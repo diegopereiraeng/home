@@ -59,8 +59,6 @@ Facilitates Windows Remote Management (WinRM) commands execution within Harness/
 
 ## Harness Custom Demos
 
-## Project Catalog Demos
-
 ### 1. **Banking CV Backend Demo**
 - **Description**: Demonstrates building, running, and pushing a Docker containerized Java application for a banking CV backend.
 - **Technologies**: Java, Docker, Google Cloud Registry.
