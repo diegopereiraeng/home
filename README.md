@@ -1,6 +1,6 @@
 # Plugins and Utilities Catalog Documentation
 
-![Diego Pereira](repo-banner-3.webp "Diego Pereira")
+![Diego Pereira](repo-banner.webp "Diego Pereira")
 
 Welcome to the official documentation repository for Diego Pereira's suite of plugins. 
 
